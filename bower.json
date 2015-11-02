@@ -1,0 +1,22 @@
+{
+  "name": "excel-input",
+  "description": "component of css and js",
+  "main": "index.html",
+  "authors": [
+    "dlutwuwei <dlutwuwei@qq.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
